@@ -16,4 +16,8 @@ Adds a little panel to the properties panel ("N panel") for quickly visualizing 
 
 ### Goto Panel
 
-Very WIP. The idea is that you can press ctrl-G to open a popup with various shortcuts and display the selected one in the properties panel for quick access. Right now it's janky and hardcoded and basically useless. You'll probably want to disable this one
+Very WIP. The idea is that you can press Ctrl-G to open a popup with various shortcuts and display the selected one in the properties panel for quick access. Right now it's janky and hardcoded and basically useless. You'll probably want to disable this one.
+
+---
+
+Code is MIT licensed, do whatever you want with it. QuickUvCheck/Valle.jpg was created at https://uvchecker.byvalle.com/ by Jorge Valle Hurtado.
